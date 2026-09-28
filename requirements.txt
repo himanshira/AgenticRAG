@@ -1,0 +1,8 @@
+# Core
+crewai[tools]>=1.15,<2
+tavily-python>=0.7
+python-dotenv>=1.0
+pydantic>=2.0
+
+# Optional: Streamlit UI (uncomment if you build app.py)
+# streamlit>=1.38
